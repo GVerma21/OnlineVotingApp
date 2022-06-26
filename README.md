@@ -25,4 +25,3 @@ Functions Available:
   - Review Candidates
   - End Elections
   - Logout
-# OnlineVotingSystem
